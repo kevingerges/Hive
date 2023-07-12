@@ -1,0 +1,50 @@
+.card-container {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    align-items: flex-start; 
+    gap: 16px; 
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 26px;
+    width: 306px;
+    height: 189px;
+    background: #ffffff;
+    border: 1px solid #c8c8c8;
+    border-radius: 20px;
+}
+
+.title {
+    font-family: 'Satoshi';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    /* hanging-punctuation is currently only supported in Safari. */
+    
+    hanging-punctuation: first last;
+    
+    color: #3F3F3F;
+}
+
+.itemcardcontainer{
+    display: flex;
+    align-items: center;
+    gap:32px;
+}
+.content{
+    font-family: 'Satoshi';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+max-height: 100px;
+overflow: hidden;
+
+}

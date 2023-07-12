@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Satoshi:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@700&display=swap");
+@import url("https://www.fontshare.com/fonts/satoshi");
+@import url("https://www.fontshare.com/fonts/plus-jakarta-sans");
+@import url('https://fonts.cdnfonts.com/css/satoshi');
+@import url('https://fonts.cdnfonts.com/css/satoshi?styles=135007');
+
+
+
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-satoshi: Satoshi;
+  --pj-bold-18: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-sm-4: 13.4px;
+  --font-size-mid-8: 17.8px;
+  --font-size-xs: 12px;
+  --pj-bold-18-size: 18px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-lg-3: 18.3px;
+  --font-size-xl: 20px;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-snow: #fef9f8;
+  --color-silver-100: #c8c8c8;
+  --color-black: #000;
+  --color-gray-100: #808080;
+  --gray-900: #18181b;
+  --hive-black: #1a1225;
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --hive-purple: #9730ff;
+  --color-thistle: #e9d3ff;
+  --color-darkviolet: rgba(183, 29, 255, 0.5);
+  --color-gainsboro: #eee7e5;
+  --color-lightslategray: #928d99;
+  --color-darkslategray: #3f3f3f;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+  --gap-5xs-8: 7.8px;
+  --gap-65xl: 84px;
+  --gap-4xs: 9px;
+  --gap-smi-8: 12.8px;
+  --gap-12xl: 31px;
+  --gap-5xl: 24px;
+  --gap-xs: 12px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-8xs: 5px;
+  --padding-xl: 20px;
+  --padding-base: 16px;
+  --padding-130xl-2: 149.2px;
+  --padding-45xl-1: 64.1px;
+  --padding-3xl: 22px;
+  --padding-13xl: 32px;
+  --padding-sm: 14px;
+  --padding-7xl: 26px;
+  --padding-3xs: 10px;
+
+  /* border radiuses */
+  --br-4xs-9: 8.9px;
+  --br-8xs: 5px;
+  --br-9xs-3: 3.3px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-11xs: 2px;
+  --br-lg-3: 18.3px;
+  --br-base-1: 16.1px;
+  --br-31xl: 50px;
+}

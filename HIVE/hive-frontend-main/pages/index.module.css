@@ -1,0 +1,390 @@
+.shadow {
+  position: absolute;
+  height: 54.84%;
+  width: 55.02%;
+  top: 37.48%;
+  right: 5.3%;
+  bottom: 7.68%;
+  left: 39.68%;
+  background: linear-gradient(
+    90deg,
+    rgba(29, 92, 255, 0.4),
+    rgba(150, 68, 255, 0.4) 51.56%,
+    rgba(245, 18, 194, 0.4)
+  );
+  filter: blur(1000px);
+}
+.landingPage40Child {
+  position: absolute;
+  top: 510.01px;
+  left: 290.52px;
+  width: 405.56px;
+  height: 16.06px;
+}
+
+.landingPage40Child1 {
+  position: absolute;
+  top: 432.01px;
+  left: 392.52px;
+  width: 368.56px;
+  height: 14.06px;
+}
+.shadow1 {
+  position: absolute;
+  height: 99.23%;
+  width: 99.76%;
+  top: 0.54%;
+  right: 0.17%;
+  bottom: 0.23%;
+  left: 0.07%;
+  background: linear-gradient(
+    90deg,
+    rgba(29, 92, 255, 0.7),
+    rgba(150, 68, 255, 0.7) 47.92%,
+    rgba(255, 68, 236, 0.7)
+  );
+  filter: blur(45px);
+}
+.buttonName {
+  position: relative;
+  line-height: 24px;
+}
+.iconoutlinearrowRight {
+  position: relative;
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttonNameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-4xs);
+}
+.buttonprimarywithIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  border-radius: var(--br-3xs);
+  background-color: var(--hive-purple);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.buttons {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0.17%;
+  bottom: 0%;
+  left: -0.17%;
+}
+.shadowParent {
+  position: absolute;
+  top: 673px;
+  left: 108px;
+  width: 179px;
+  height: 56px;
+  cursor: pointer;
+  text-align: right;
+  font-family: var(--pj-bold-18);
+}
+.superchargeYourTeams {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 81px;
+  display: inline-block;
+  width: 671px;
+}
+.stayOnTop {
+  position: absolute;
+  top: 207px;
+  left: 1.63px;
+  font-size: 24px;
+  line-height: 26px;
+  color: #7a797d;
+  display: inline-block;
+  width: 641px;
+}
+.superchargeYourTeamsProducParent {
+  position: absolute;
+  top: 350px;
+  left: 101.37px;
+  width: 671px;
+  height: 259px;
+  font-size: 68px;
+  color: var(--gray-900);
+}
+.hive {
+  position: absolute;
+    width: 61px;
+  height: 30px;
+  left: 72px;
+  top: 34.5px;
+  line-height: 30px;
+  text-transform: lowercase;
+}
+/* .logo {
+  position: absolute;
+  top: 34.5px;
+  left: 72px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 61px;
+  height: 30px;
+} */
+.login {
+  position: absolute;
+  top: 11px;
+  left: 180%;
+  line-height: 24px;
+  font-weight: 500;
+}
+.icon1 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttonprimarywithIcon1 {
+  position: absolute;
+  top: 0px;
+  left: 230%;
+  border-radius: var(--br-3xs);
+  border: 1.5px solid var(--hive-purple);
+  box-sizing: border-box;
+  width: 129px;
+  height: 45px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-base);
+  align-items: center;
+  justify-content: center;
+  text-align: right;
+  color: var(--hive-purple);
+}
+.logintryItOut {
+  position: absolute;
+  top: 27px;
+  left: 1234px;
+  width: 206px;
+  height: 45px;
+  font-size: var(--font-size-base);
+  color: var(--gray-900);
+}
+.homePageNavBar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  font-size: var(--font-size-13xl);
+  color: var(--hive-purple);
+}
+.image76Icon {
+  position: absolute;
+  top: 16px;
+  left: 24px;
+  width: 17.43px;
+  height: 24px;
+  object-fit: cover;
+}
+.frameChild {
+  position: absolute;
+  top: 21px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: #c2d8fd;
+  width: 305px;
+  height: 14px;
+}
+.frameItem {
+  position: absolute;
+  top: 51px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 561px;
+  height: 10px;
+}
+.frameInner {
+  position: absolute;
+  top: 65px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 61%;
+  height: 10px;
+}
+.image76Parent {
+  position: absolute;
+  top: 213px;
+  left: 88px;
+  border-radius: 16.05px;
+  background-color: var(--color-snow);
+  border: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 90px;
+  overflow: hidden;
+}
+.image70Icon {
+  position: absolute;
+  top: 16px;
+  left: 24px;
+  width: 17.28px;
+  height: 24px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 21px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: #b5e8cf;
+  width: 305px;
+  height: 14px;
+}
+.frameChild1 {
+  position: absolute;
+  top: 51px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 100%;
+  height: 10px;
+}
+.image70Parent {
+  position: absolute;
+  top: 317px;
+  left: 88px;
+  border-radius: 16.05px;
+  background-color: var(--color-snow);
+  border: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 90px;
+  overflow: hidden;
+}
+.vectorIcon {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  flex-shrink: 0;
+}
+.whatsTheMost {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 496px;
+  flex-shrink: 0;
+}
+.vectorParent {
+  position: absolute;
+  top: 123px;
+  left: 88px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-white);
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+  border: 1px solid #c7c7c7;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xl) var(--padding-13xl);
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-12xl);
+}
+.image73Icon {
+  position: absolute;
+  top: 16px;
+  left: 22px;
+  width: 23px;
+  height: 23px;
+  object-fit: cover;
+}
+.frameChild3 {
+  position: absolute;
+  top: 21px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: #cbd2dd;
+  width: 229px;
+  height: 14px;
+}
+.frameChild4 {
+  position: absolute;
+  top: 49px;
+  left: 65px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  width: 569px;
+  height: 10px;
+}
+.image73Parent {
+  position: absolute;
+  top: 421px;
+  left: 88px;
+  border-radius: 16.05px;
+  background-color: var(--color-snow);
+  border: 0.5px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 90px;
+  overflow: hidden;
+}
+.frameIcon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1023px;
+  height: 66px;
+  overflow: hidden;
+}
+.frameParent {
+  position: absolute;
+  top: 269px;
+  left: 55%;
+  border-radius: 30px;
+  background-color: var(--color-white);
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.15);
+  width: 878px;
+  height: 568px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.landingPage40 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--pj-bold-18-size);
+  color: var(--color-white);
+  font-family: var(--font-satoshi);
+}
